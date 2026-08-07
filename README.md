@@ -1,32 +1,41 @@
 # 💪 PowerBuild Pro
 
-A premium fitness tracking application built with Flutter.
+> Train • Track • Transform
 
-## 🚀 Features
+PowerBuild Pro is a premium fitness tracking application designed to help users build strength, improve health, and stay consistent.
 
-- Workout Tracker
-- Nutrition Planner
-- Water Tracker
-- Progress Analytics
-- Body Measurements
-- Strength Tracking
-- AI Coach (Upcoming)
-- Premium Black & Gold UI
+---
 
-## 🛠️ Tech Stack
+## ✨ Features
+
+- 🏋 Workout Tracker
+- 🍎 Nutrition Planner
+- 💧 Water Intake Tracker
+- 📈 Progress Analytics
+- 📸 Progress Photos
+- 📏 Body Measurements
+- 🏆 Achievement System
+- 🤖 AI Coach (Coming Soon)
+
+---
+
+## 🛠 Built With
 
 - Flutter
 - Dart
 - Firebase
 - SQLite
-- Material Design
+
+---
 
 ## 📱 Version
 
-PowerBuild Pro v1.0
+**PowerBuild Pro v1.0**
 
-## 👨‍💻 Developer
+---
 
-Kiran Barela
+## 👨‍💻 Developed By
 
-Train • Track • Transform
+**Kiran Barela**
+
+© 2026 All Rights Reserved.
